@@ -1,0 +1,28 @@
+[
+  {
+    "template_id": "TPL-Z06-001",
+    "template_name": "AI Sales Frontdesk Lead Card",
+    "module_id": "Z06",
+    "description": "標準化潛客卡片，整合來源、需求、決策者、下一步。",
+    "evidence_status": "hypothesis",
+    "source_required": true,
+    "last_verified_at": null,
+    "research_notes": "待補官方 CRM 欄位設計與運作準則來源。",
+    "source_ids": [],
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  },
+  {
+    "template_id": "TPL-Z06-002",
+    "template_name": "Lead Qualification Prompt",
+    "module_id": "Z06",
+    "description": "協助業務快速做潛客資格判斷與資料補全的提示模板。",
+    "evidence_status": "source_backed_pending",
+    "source_required": true,
+    "last_verified_at": null,
+    "research_notes": "待綁定來源與情境邊界。",
+    "source_ids": [],
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  }
+]

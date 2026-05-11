@@ -1,0 +1,18 @@
+[
+  {
+    "validation_id": "VAL-0001",
+    "client_or_project": "Demo Pilot A",
+    "related_template_id": "TPL-Z06-001",
+    "related_module": "Z06",
+    "before_state": "潛客資訊散落於聊天與試算表。",
+    "after_state": "採用 Lead Card 後，跟進欄位與責任人清楚。",
+    "success_metrics": ["回覆速度", "跟進完成率"],
+    "client_feedback": "資訊更清楚，但還需自動提醒。",
+    "internal_feedback": "需新增 Next Best Action 欄位。",
+    "result": "pending",
+    "update_needed": true,
+    "updated_pattern_or_template": ["TPL-Z06-001", "PAT-Z06-003"],
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  }
+]

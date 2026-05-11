@@ -1,0 +1,22 @@
+[
+  {
+    "inquiry_id": "INQ-0001",
+    "client_name_or_alias": "Demo-B2B-Service-Co",
+    "client_type": "B2B 服務業",
+    "client_stage": "成長期",
+    "business_model": "顧問 + 專案交付",
+    "main_problem": "潛客追蹤不一致，提案後跟進效率低。",
+    "related_lifecycle": ["訂單取得", "訂單交付"],
+    "related_modules": ["Z06", "Z07"],
+    "requested_outcome": "提升提案轉單率並縮短銷售週期。",
+    "urgency": "high",
+    "revenue_potential": "high",
+    "existing_kb_assets": ["PAT-Z06-001"],
+    "missing_assets": ["TPL-Z06-004", "PAT-Z06-006"],
+    "recommended_research_priority": "A",
+    "proposal_status": "in_discussion",
+    "notes": "建議先啟動 Seed Pack 01 研究。",
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  }
+]

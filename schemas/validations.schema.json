@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BPKB Validations",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["validation_id","client_or_project","related_template_id","related_module","before_state","after_state","success_metrics","client_feedback","internal_feedback","result","update_needed","updated_pattern_or_template","created_at","updated_at"],
+    "properties": {
+      "validation_id": {"type": "string"},
+      "client_or_project": {"type": "string"},
+      "related_template_id": {"type": "string"},
+      "related_module": {"type": "string", "pattern": "^Z(0[1-9]|1[0-2])$"},
+      "before_state": {"type": "string"},
+      "after_state": {"type": "string"},
+      "success_metrics": {"type": "array", "items": {"type": "string"}},
+      "client_feedback": {"type": "string"},
+      "internal_feedback": {"type": "string"},
+      "result": {"type": "string", "enum": ["success", "partial_success", "failed", "pending"]},
+      "update_needed": {"type": "boolean"},
+      "updated_pattern_or_template": {"type": "array", "items": {"type": "string"}},
+      "created_at": {"type": "string", "format": "date-time"},
+      "updated_at": {"type": "string", "format": "date-time"}
+    },
+    "additionalProperties": false
+  }
+}

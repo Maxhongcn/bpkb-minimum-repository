@@ -1,0 +1,28 @@
+[
+  {
+    "pattern_id": "PAT-Z06-001",
+    "pattern_name": "Explainable Lead Scoring",
+    "module_id": "Z06",
+    "description": "建立可解釋的潛客評分規則，讓業務理解分數來源與下一步行動。",
+    "evidence_status": "hypothesis",
+    "source_required": true,
+    "last_verified_at": null,
+    "research_notes": "待補 S/A 級來源與實務案例。",
+    "source_ids": [],
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  },
+  {
+    "pattern_id": "PAT-Z06-002",
+    "pattern_name": "Pipeline Stage Management",
+    "module_id": "Z06",
+    "description": "定義銷售階段與進退場條件，降低 pipeline 失真。",
+    "evidence_status": "source_backed_pending",
+    "source_required": true,
+    "last_verified_at": null,
+    "research_notes": "已有初步工具文件線索，尚未完成正式來源建檔。",
+    "source_ids": [],
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  }
+]

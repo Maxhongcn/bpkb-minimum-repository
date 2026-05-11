@@ -1,0 +1,578 @@
+[
+  {
+    "module_id": "Z01",
+    "module_name": "經營治理與老闆決策中樞",
+    "module_definition": "經營治理與老闆決策中樞相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z02",
+    "module_name": "戰略定位與商業模式",
+    "module_definition": "戰略定位與商業模式相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z03",
+    "module_name": "產品 / 服務設計",
+    "module_definition": "產品 / 服務設計相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z04",
+    "module_name": "市場與品牌內容",
+    "module_definition": "市場與品牌內容相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z05",
+    "module_name": "潛客開發與流量取得",
+    "module_definition": "潛客開發與流量取得相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z06",
+    "module_name": "訂單取得與銷售轉化",
+    "module_definition": "訂單取得與銷售轉化相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z07",
+    "module_name": "訂單交付與專案履約",
+    "module_definition": "訂單交付與專案履約相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z08",
+    "module_name": "營運管理與 SOP",
+    "module_definition": "營運管理與 SOP相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z09",
+    "module_name": "客戶關係與續約擴單",
+    "module_definition": "客戶關係與續約擴單相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z10",
+    "module_name": "人力組織與內部協作",
+    "module_definition": "人力組織與內部協作相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z11",
+    "module_name": "財務管理與經營數據",
+    "module_definition": "財務管理與經營數據相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  },
+  {
+    "module_id": "Z12",
+    "module_name": "資料系統與 AI 工具底座",
+    "module_definition": "資料系統與 AI 工具底座相關的核心管理模組，用於沉澱流程、決策與可重用模板。",
+    "business_function": "支援企業從策略到交付的可複製經營能力。",
+    "typical_processes": [
+      "目標設定",
+      "流程定義",
+      "執行追蹤"
+    ],
+    "common_pain_points": [
+      "資訊分散",
+      "責任不清",
+      "決策延遲"
+    ],
+    "key_decisions": [
+      "資源配置",
+      "優先順序",
+      "風險處理"
+    ],
+    "kpis": [
+      "轉換率",
+      "交付準時率",
+      "客戶滿意度"
+    ],
+    "related_roles": [
+      "老闆",
+      "營運主管",
+      "一線執行者"
+    ],
+    "related_patterns": [],
+    "related_templates": [],
+    "required_data": [
+      "客戶資料",
+      "流程節點資料",
+      "成果數據"
+    ],
+    "ai_intervention_points": [
+      "摘要整理",
+      "下一步建議",
+      "異常提示"
+    ],
+    "codex_feature_candidates": [
+      "結構化表單",
+      "檢核規則",
+      "匯出格式"
+    ]
+  }
+]

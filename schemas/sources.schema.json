@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BPKB Sources",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "source_id",
+      "title",
+      "authority_level",
+      "publisher",
+      "published_at",
+      "url",
+      "summary",
+      "tags",
+      "created_at",
+      "updated_at"
+    ],
+    "properties": {
+      "source_id": { "type": "string" },
+      "title": { "type": "string" },
+      "authority_level": { "type": "string", "enum": ["S", "A", "B", "C", "D", "E"] },
+      "publisher": { "type": "string" },
+      "published_at": { "type": ["string", "null"], "format": "date" },
+      "url": { "type": "string", "format": "uri" },
+      "summary": { "type": "string" },
+      "notes": { "type": "string" },
+      "tags": { "type": "array", "items": { "type": "string" } },
+      "created_at": { "type": "string", "format": "date-time" },
+      "updated_at": { "type": "string", "format": "date-time" }
+    },
+    "additionalProperties": false
+  }
+}
