@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BPKB Modules",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": [
+      "module_id",
+      "module_name",
+      "module_definition",
+      "business_function",
+      "typical_processes",
+      "common_pain_points",
+      "key_decisions",
+      "kpis",
+      "related_roles",
+      "related_patterns",
+      "related_templates",
+      "required_data",
+      "ai_intervention_points",
+      "codex_feature_candidates"
+    ],
+    "properties": {
+      "module_id": { "type": "string", "pattern": "^Z(0[1-9]|1[0-2])$" },
+      "module_name": { "type": "string" },
+      "module_definition": { "type": "string" },
+      "business_function": { "type": "string" },
+      "typical_processes": { "type": "array", "items": { "type": "string" } },
+      "common_pain_points": { "type": "array", "items": { "type": "string" } },
+      "key_decisions": { "type": "array", "items": { "type": "string" } },
+      "kpis": { "type": "array", "items": { "type": "string" } },
+      "related_roles": { "type": "array", "items": { "type": "string" } },
+      "related_patterns": { "type": "array", "items": { "type": "string" } },
+      "related_templates": { "type": "array", "items": { "type": "string" } },
+      "required_data": { "type": "array", "items": { "type": "string" } },
+      "ai_intervention_points": { "type": "array", "items": { "type": "string" } },
+      "codex_feature_candidates": { "type": "array", "items": { "type": "string" } }
+    },
+    "additionalProperties": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BPKB Inquiries",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["inquiry_id","client_name_or_alias","client_type","client_stage","business_model","main_problem","related_lifecycle","related_modules","requested_outcome","urgency","revenue_potential","existing_kb_assets","missing_assets","recommended_research_priority","proposal_status","notes","created_at","updated_at"],
+    "properties": {
+      "inquiry_id": {"type": "string"},
+      "client_name_or_alias": {"type": "string"},
+      "client_type": {"type": "string"},
+      "client_stage": {"type": "string", "enum": ["創業期", "成長期", "轉型期", "規模化期", "第二曲線", "傳承期", "危機重整期"]},
+      "business_model": {"type": "string"},
+      "main_problem": {"type": "string"},
+      "related_lifecycle": {"type": "array", "items": {"type": "string", "enum": ["產品準備", "訂單取得", "訂單交付"]}},
+      "related_modules": {"type": "array", "items": {"type": "string"}},
+      "requested_outcome": {"type": "string"},
+      "urgency": {"type": "string", "enum": ["low", "medium", "high"]},
+      "revenue_potential": {"type": "string", "enum": ["low", "medium", "high"]},
+      "existing_kb_assets": {"type": "array", "items": {"type": "string"}},
+      "missing_assets": {"type": "array", "items": {"type": "string"}},
+      "recommended_research_priority": {"type": "string", "enum": ["A", "B", "C", "D"]},
+      "proposal_status": {"type": "string", "enum": ["not_started", "in_discussion", "proposal_sent", "pilot_discussion", "won", "lost", "paused"]},
+      "notes": {"type": "string"},
+      "created_at": {"type": "string", "format": "date-time"},
+      "updated_at": {"type": "string", "format": "date-time"}
+    },
+    "additionalProperties": false
+  }
+}

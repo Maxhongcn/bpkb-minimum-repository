@@ -1,0 +1,24 @@
+[
+  {
+    "research_id": "RQ-0001",
+    "trigger_type": "client_inquiry",
+    "trigger_reference": "INQ-0001",
+    "target_industry": "B2B 服務業",
+    "target_modules": ["Z06"],
+    "target_patterns": ["Explainable Lead Scoring", "Proposal Follow-up"],
+    "target_templates": ["AI Sales Frontdesk Lead Card", "Follow-up Message Template"],
+    "research_questions": [
+      "哪些 S/A 級來源支持可解釋 lead scoring 的欄位與流程設計？",
+      "提案後跟進頻率、節點與訊息框架有哪些可驗證做法？"
+    ],
+    "required_source_level": ["S", "A"],
+    "priority": "A",
+    "status": "pending",
+    "assigned_to": "human",
+    "output_pattern_ids": [],
+    "output_template_ids": [],
+    "notes": "完成研究後回寫 PAT/TPL evidence_status。",
+    "created_at": "2026-05-11T00:00:00Z",
+    "updated_at": "2026-05-11T00:00:00Z"
+  }
+]
